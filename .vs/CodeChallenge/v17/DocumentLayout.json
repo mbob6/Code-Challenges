@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0418E308-0C7C-47B8-9C93-EC6AEFCD5B99}|CodeChallenge.csproj|c:\\users\\muhba\\source\\repos\\codechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0418E308-0C7C-47B8-9C93-EC6AEFCD5B99}|CodeChallenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0418E308-0C7C-47B8-9C93-EC6AEFCD5B99}|CodeChallenge.csproj|c:\\users\\muhba\\source\\repos\\codechallenge\\codechallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0418E308-0C7C-47B8-9C93-EC6AEFCD5B99}|CodeChallenge.csproj|solutionrelative:codechallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeChallenge",
+              "DocumentMoniker": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj",
+              "RelativeDocumentMoniker": "CodeChallenge.csproj",
+              "ToolTip": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj",
+              "RelativeToolTip": "CodeChallenge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T10:33:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:30:16.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
