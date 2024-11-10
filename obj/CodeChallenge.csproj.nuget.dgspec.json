@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj": {}
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\CodeChallenge\\CodeChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj": {
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\CodeChallenge\\CodeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\CodeChallenge\\CodeChallenge.csproj",
         "projectName": "CodeChallenge",
-        "projectPath": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\CodeChallenge.csproj",
+        "projectPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\CodeChallenge\\CodeChallenge.csproj",
         "packagesPath": "C:\\Users\\muhba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhba\\source\\repos\\CodeChallenge\\obj\\",
+        "outputPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\CodeChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhba\\AppData\\Roaming\\NuGet\\NuGet.Config",
